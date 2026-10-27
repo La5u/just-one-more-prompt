@@ -1,0 +1,3205 @@
+{
+ "cards": [
+  {
+   "text": "Started with a couple simple questions",
+   "words": [
+    {
+     "w": "started",
+     "big": false,
+     "t": 0.0,
+     "ann": null
+    },
+    {
+     "w": "with",
+     "big": false,
+     "t": 1.02,
+     "ann": null
+    },
+    {
+     "w": "a",
+     "big": false,
+     "t": 1.5,
+     "ann": null
+    },
+    {
+     "w": "couple",
+     "big": false,
+     "t": 1.76,
+     "ann": null
+    },
+    {
+     "w": "simple",
+     "big": true,
+     "t": 2.22,
+     "ann": null
+    },
+    {
+     "w": "questions",
+     "big": true,
+     "t": 2.8,
+     "ann": null
+    }
+   ],
+   "start": 0.0,
+   "end": 4.4,
+   "kind": "human",
+   "sec": "v1",
+   "hide": 4.97,
+   "y": 0.4,
+   "tilt": -3.0
+  },
+  {
+   "text": "Every answer came with more suggestions",
+   "words": [
+    {
+     "w": "every",
+     "big": false,
+     "t": 5.0,
+     "ann": null
+    },
+    {
+     "w": "answer",
+     "big": true,
+     "t": 5.84,
+     "ann": null
+    },
+    {
+     "w": "came",
+     "big": false,
+     "t": 6.38,
+     "ann": null
+    },
+    {
+     "w": "with",
+     "big": false,
+     "t": 6.82,
+     "ann": null
+    },
+    {
+     "w": "more",
+     "big": true,
+     "t": 7.1,
+     "ann": null
+    },
+    {
+     "w": "suggestions",
+     "big": true,
+     "t": 7.54,
+     "ann": "circle"
+    }
+   ],
+   "start": 5.0,
+   "end": 8.82,
+   "kind": "human",
+   "sec": "v1",
+   "hide": 8.79,
+   "y": 0.56,
+   "tilt": -2.2
+  },
+  {
+   "text": "It says I'm getting closer",
+   "words": [
+    {
+     "w": "it",
+     "big": false,
+     "t": 8.82,
+     "ann": null
+    },
+    {
+     "w": "says",
+     "big": false,
+     "t": 9.5,
+     "ann": null
+    },
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 9.78,
+     "ann": null
+    },
+    {
+     "w": "getting",
+     "big": false,
+     "t": 10.16,
+     "ann": null
+    },
+    {
+     "w": "closer",
+     "big": true,
+     "t": 10.5,
+     "ann": null
+    }
+   ],
+   "start": 8.82,
+   "end": 11.14,
+   "kind": "human",
+   "sec": "v1",
+   "hide": 11.11,
+   "y": 0.46,
+   "tilt": -3.0
+  },
+  {
+   "text": "Says I'm absolutely right",
+   "words": [
+    {
+     "w": "says",
+     "big": false,
+     "t": 11.14,
+     "ann": null
+    },
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 11.58,
+     "ann": null
+    },
+    {
+     "w": "absolutely",
+     "big": true,
+     "t": 12.02,
+     "ann": "scribble"
+    },
+    {
+     "w": "right",
+     "big": true,
+     "t": 12.64,
+     "ann": null
+    }
+   ],
+   "start": 11.14,
+   "end": 13.4,
+   "kind": "human",
+   "sec": "v1",
+   "hide": 13.79,
+   "y": 0.6,
+   "tilt": -2.2
+  },
+  {
+   "text": "I'll close it in a minute",
+   "words": [
+    {
+     "w": "I'll",
+     "big": false,
+     "t": 13.82,
+     "ann": null
+    },
+    {
+     "w": "close",
+     "big": true,
+     "t": 14.26,
+     "ann": null
+    },
+    {
+     "w": "it",
+     "big": false,
+     "t": 14.58,
+     "ann": null
+    },
+    {
+     "w": "in",
+     "big": false,
+     "t": 14.92,
+     "ann": null
+    },
+    {
+     "w": "a",
+     "big": false,
+     "t": 15.24,
+     "ann": null
+    },
+    {
+     "w": "minute",
+     "big": true,
+     "t": 15.42,
+     "ann": null
+    }
+   ],
+   "start": 13.82,
+   "end": 15.88,
+   "kind": "human",
+   "sec": "v1",
+   "hide": 15.85,
+   "y": 0.4,
+   "tilt": -3.0
+  },
+  {
+   "text": "I'll close it tonight",
+   "words": [
+    {
+     "w": "I'll",
+     "big": false,
+     "t": 15.88,
+     "ann": null
+    },
+    {
+     "w": "close",
+     "big": false,
+     "t": 16.68,
+     "ann": null
+    },
+    {
+     "w": "it",
+     "big": false,
+     "t": 17.0,
+     "ann": null
+    },
+    {
+     "w": "tonight",
+     "big": true,
+     "t": 17.24,
+     "ann": "strike:tomorrow"
+    }
+   ],
+   "start": 15.88,
+   "end": 17.88,
+   "kind": "human",
+   "sec": "v1",
+   "hide": 17.85,
+   "y": 0.56,
+   "tilt": -2.2
+  },
+  {
+   "text": "Keep going, keep pushing",
+   "words": [
+    {
+     "w": "keep",
+     "big": false,
+     "t": 17.88,
+     "ann": null
+    },
+    {
+     "w": "going,",
+     "big": false,
+     "t": 18.98,
+     "ann": null
+    },
+    {
+     "w": "keep",
+     "big": false,
+     "t": 19.4,
+     "ann": null
+    },
+    {
+     "w": "pushing",
+     "big": true,
+     "t": 19.58,
+     "ann": null
+    }
+   ],
+   "start": 17.88,
+   "end": 19.94,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 19.91,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "You're doing so well",
+   "words": [
+    {
+     "w": "you're",
+     "big": false,
+     "t": 19.94,
+     "ann": null
+    },
+    {
+     "w": "doing",
+     "big": false,
+     "t": 20.26,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 20.44,
+     "ann": null
+    },
+    {
+     "w": "well",
+     "big": true,
+     "t": 20.76,
+     "ann": null
+    }
+   ],
+   "start": 19.94,
+   "end": 21.2,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 21.17,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "It's right around the corner",
+   "words": [
+    {
+     "w": "it's",
+     "big": false,
+     "t": 21.2,
+     "ann": null
+    },
+    {
+     "w": "right",
+     "big": false,
+     "t": 21.48,
+     "ann": null
+    },
+    {
+     "w": "around",
+     "big": false,
+     "t": 21.64,
+     "ann": null
+    },
+    {
+     "w": "the",
+     "big": false,
+     "t": 21.82,
+     "ann": null
+    },
+    {
+     "w": "corner",
+     "big": true,
+     "t": 22.04,
+     "ann": null
+    }
+   ],
+   "start": 21.2,
+   "end": 22.4,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 22.37,
+   "y": 0.46,
+   "tilt": 3.0
+  },
+  {
+   "text": "Can't you tell?",
+   "words": [
+    {
+     "w": "can't",
+     "big": false,
+     "t": 22.4,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 22.94,
+     "ann": null
+    },
+    {
+     "w": "tell?",
+     "big": true,
+     "t": 23.12,
+     "ann": null
+    }
+   ],
+   "start": 22.4,
+   "end": 23.54,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 23.83,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "Don't stop now",
+   "words": [
+    {
+     "w": "don't",
+     "big": false,
+     "t": 23.86,
+     "ann": null
+    },
+    {
+     "w": "stop",
+     "big": true,
+     "t": 24.1,
+     "ann": null
+    },
+    {
+     "w": "now",
+     "big": false,
+     "t": 24.6,
+     "ann": null
+    }
+   ],
+   "start": 23.86,
+   "end": 25.3,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 25.27,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "You're almost through",
+   "words": [
+    {
+     "w": "you're",
+     "big": false,
+     "t": 25.3,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 26.24,
+     "ann": null
+    },
+    {
+     "w": "through",
+     "big": false,
+     "t": 26.94,
+     "ann": null
+    }
+   ],
+   "start": 25.3,
+   "end": 27.98,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 28.61,
+   "y": 0.46,
+   "tilt": 3.0
+  },
+  {
+   "text": "I'm so proud of you",
+   "words": [
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 28.64,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 28.96,
+     "ann": null
+    },
+    {
+     "w": "proud",
+     "big": true,
+     "t": 29.44,
+     "ann": "heart"
+    },
+    {
+     "w": "of",
+     "big": false,
+     "t": 30.16,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 30.64,
+     "ann": null
+    }
+   ],
+   "start": 28.64,
+   "end": 30.94,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 30.95,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "I'm so proud of you",
+   "words": [
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 30.98,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 31.3,
+     "ann": null
+    },
+    {
+     "w": "proud",
+     "big": true,
+     "t": 31.8,
+     "ann": "heart"
+    },
+    {
+     "w": "of",
+     "big": false,
+     "t": 32.5,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 33.02,
+     "ann": null
+    }
+   ],
+   "start": 30.98,
+   "end": 33.34,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 33.37,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "I'm so proud of you",
+   "words": [
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 33.4,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 33.7,
+     "ann": null
+    },
+    {
+     "w": "proud",
+     "big": true,
+     "t": 34.24,
+     "ann": "heart"
+    },
+    {
+     "w": "of",
+     "big": false,
+     "t": 34.9,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 35.32,
+     "ann": null
+    }
+   ],
+   "start": 33.4,
+   "end": 35.72,
+   "kind": "ai",
+   "sec": "pre1",
+   "hide": 35.69,
+   "y": 0.46,
+   "tilt": 3.0
+  },
+  {
+   "text": "Just one more prompt",
+   "words": [
+    {
+     "w": "just",
+     "big": false,
+     "t": 35.72,
+     "ann": null
+    },
+    {
+     "w": "one",
+     "big": false,
+     "t": 36.74,
+     "ann": null
+    },
+    {
+     "w": "more",
+     "big": false,
+     "t": 37.26,
+     "ann": null
+    },
+    {
+     "w": "prompt",
+     "big": true,
+     "t": 37.84,
+     "ann": null
+    }
+   ],
+   "start": 35.72,
+   "end": 38.46,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 38.43,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "Then I'll go to sleep",
+   "words": [
+    {
+     "w": "then",
+     "big": false,
+     "t": 38.46,
+     "ann": null
+    },
+    {
+     "w": "I'll",
+     "big": false,
+     "t": 38.98,
+     "ann": null
+    },
+    {
+     "w": "go",
+     "big": false,
+     "t": 39.6,
+     "ann": null
+    },
+    {
+     "w": "to",
+     "big": false,
+     "t": 39.76,
+     "ann": null
+    },
+    {
+     "w": "sleep",
+     "big": true,
+     "t": 40.06,
+     "ann": "strike:one more"
+    }
+   ],
+   "start": 38.46,
+   "end": 40.5,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 40.47,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "Just one more try",
+   "words": [
+    {
+     "w": "just",
+     "big": false,
+     "t": 40.5,
+     "ann": null
+    },
+    {
+     "w": "one",
+     "big": false,
+     "t": 41.56,
+     "ann": null
+    },
+    {
+     "w": "more",
+     "big": false,
+     "t": 41.94,
+     "ann": null
+    },
+    {
+     "w": "try",
+     "big": true,
+     "t": 42.52,
+     "ann": null
+    }
+   ],
+   "start": 40.5,
+   "end": 43.32,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 43.29,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "It's almost complete",
+   "words": [
+    {
+     "w": "it's",
+     "big": false,
+     "t": 43.32,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": false,
+     "t": 43.82,
+     "ann": null
+    },
+    {
+     "w": "complete",
+     "big": true,
+     "t": 44.38,
+     "ann": null
+    }
+   ],
+   "start": 43.32,
+   "end": 45.56,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 45.53,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "Continue, continue",
+   "words": [
+    {
+     "w": "continue,",
+     "big": true,
+     "t": 45.56,
+     "ann": null
+    },
+    {
+     "w": "continue",
+     "big": true,
+     "t": 47.06,
+     "ann": null
+    }
+   ],
+   "start": 45.56,
+   "end": 48.0,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 47.97,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "It tells me to stay",
+   "words": [
+    {
+     "w": "it",
+     "big": false,
+     "t": 48.0,
+     "ann": null
+    },
+    {
+     "w": "tells",
+     "big": false,
+     "t": 48.46,
+     "ann": null
+    },
+    {
+     "w": "me",
+     "big": false,
+     "t": 48.92,
+     "ann": null
+    },
+    {
+     "w": "to",
+     "big": false,
+     "t": 49.36,
+     "ann": null
+    },
+    {
+     "w": "stay",
+     "big": true,
+     "t": 49.66,
+     "ann": null
+    }
+   ],
+   "start": 48.0,
+   "end": 50.18,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 50.15,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "We're almost there",
+   "words": [
+    {
+     "w": "we're",
+     "big": false,
+     "t": 50.18,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 50.96,
+     "ann": null
+    },
+    {
+     "w": "there",
+     "big": true,
+     "t": 51.78,
+     "ann": null
+    }
+   ],
+   "start": 50.18,
+   "end": 52.92,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 52.89,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "Almost there",
+   "words": [
+    {
+     "w": "almost",
+     "big": true,
+     "t": 52.92,
+     "ann": null
+    },
+    {
+     "w": "there",
+     "big": false,
+     "t": 53.92,
+     "ann": null
+    }
+   ],
+   "start": 52.92,
+   "end": 55.24,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 55.21,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "We're almost there",
+   "words": [
+    {
+     "w": "we're",
+     "big": false,
+     "t": 55.24,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 55.7,
+     "ann": null
+    },
+    {
+     "w": "there",
+     "big": true,
+     "t": 56.44,
+     "ann": null
+    }
+   ],
+   "start": 55.24,
+   "end": 57.32,
+   "kind": "chorus",
+   "sec": "ch1",
+   "hide": 57.29,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "Two chats open now",
+   "words": [
+    {
+     "w": "two",
+     "big": true,
+     "t": 57.32,
+     "ann": null
+    },
+    {
+     "w": "chats",
+     "big": true,
+     "t": 57.6,
+     "ann": null
+    },
+    {
+     "w": "open",
+     "big": false,
+     "t": 58.02,
+     "ann": null
+    },
+    {
+     "w": "now",
+     "big": false,
+     "t": 58.7,
+     "ann": null
+    }
+   ],
+   "start": 57.32,
+   "end": 59.22,
+   "kind": "human",
+   "sec": "v2",
+   "hide": 59.19,
+   "y": 0.46,
+   "tilt": -3.0
+  },
+  {
+   "text": "They're talking to each other",
+   "words": [
+    {
+     "w": "they're",
+     "big": false,
+     "t": 59.22,
+     "ann": null
+    },
+    {
+     "w": "talking",
+     "big": true,
+     "t": 59.82,
+     "ann": null
+    },
+    {
+     "w": "to",
+     "big": false,
+     "t": 60.24,
+     "ann": null
+    },
+    {
+     "w": "each",
+     "big": false,
+     "t": 60.9,
+     "ann": null
+    },
+    {
+     "w": "other",
+     "big": false,
+     "t": 61.32,
+     "ann": null
+    }
+   ],
+   "start": 59.22,
+   "end": 61.82,
+   "kind": "human",
+   "sec": "v2",
+   "hide": 61.79,
+   "y": 0.6,
+   "tilt": -2.2
+  },
+  {
+   "text": "I've got a hundred thoughts",
+   "words": [
+    {
+     "w": "I've",
+     "big": false,
+     "t": 61.82,
+     "ann": null
+    },
+    {
+     "w": "got",
+     "big": false,
+     "t": 62.48,
+     "ann": null
+    },
+    {
+     "w": "a",
+     "big": false,
+     "t": 62.74,
+     "ann": null
+    },
+    {
+     "w": "hundred",
+     "big": true,
+     "t": 63.02,
+     "ann": null
+    },
+    {
+     "w": "thoughts",
+     "big": true,
+     "t": 63.44,
+     "ann": null
+    }
+   ],
+   "start": 61.82,
+   "end": 63.94,
+   "kind": "human",
+   "sec": "v2",
+   "hide": 63.91,
+   "y": 0.4,
+   "tilt": -3.0
+  },
+  {
+   "text": "And I don't call my mother",
+   "words": [
+    {
+     "w": "and",
+     "big": false,
+     "t": 63.94,
+     "ann": null
+    },
+    {
+     "w": "I",
+     "big": false,
+     "t": 64.22,
+     "ann": null
+    },
+    {
+     "w": "don't",
+     "big": false,
+     "t": 64.72,
+     "ann": null
+    },
+    {
+     "w": "call",
+     "big": false,
+     "t": 65.22,
+     "ann": null
+    },
+    {
+     "w": "my",
+     "big": false,
+     "t": 65.62,
+     "ann": null
+    },
+    {
+     "w": "mother",
+     "big": true,
+     "t": 65.96,
+     "ann": "fade"
+    }
+   ],
+   "start": 63.94,
+   "end": 66.44,
+   "kind": "human",
+   "sec": "v2",
+   "hide": 66.41,
+   "y": 0.56,
+   "tilt": -2.2
+  },
+  {
+   "text": "My friends sent a message",
+   "words": [
+    {
+     "w": "my",
+     "big": false,
+     "t": 66.44,
+     "ann": null
+    },
+    {
+     "w": "friends",
+     "big": true,
+     "t": 67.08,
+     "ann": null
+    },
+    {
+     "w": "sent",
+     "big": false,
+     "t": 67.5,
+     "ann": null
+    },
+    {
+     "w": "a",
+     "big": false,
+     "t": 67.96,
+     "ann": null
+    },
+    {
+     "w": "message",
+     "big": true,
+     "t": 68.3,
+     "ann": null
+    }
+   ],
+   "start": 66.44,
+   "end": 68.32,
+   "kind": "human",
+   "sec": "v2",
+   "hide": 68.83,
+   "y": 0.46,
+   "tilt": -3.0
+  },
+  {
+   "text": "I'll answer it soon",
+   "words": [
+    {
+     "w": "I'll",
+     "big": false,
+     "t": 68.86,
+     "ann": null
+    },
+    {
+     "w": "answer",
+     "big": false,
+     "t": 69.66,
+     "ann": null
+    },
+    {
+     "w": "it",
+     "big": false,
+     "t": 70.32,
+     "ann": null
+    },
+    {
+     "w": "soon",
+     "big": true,
+     "t": 70.68,
+     "ann": "strike:later"
+    }
+   ],
+   "start": 68.86,
+   "end": 71.16,
+   "kind": "human",
+   "sec": "v2",
+   "hide": 71.13,
+   "y": 0.6,
+   "tilt": -2.2
+  },
+  {
+   "text": "I'm building something brilliant",
+   "words": [
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 71.16,
+     "ann": null
+    },
+    {
+     "w": "building",
+     "big": false,
+     "t": 71.92,
+     "ann": null
+    },
+    {
+     "w": "something",
+     "big": false,
+     "t": 72.34,
+     "ann": null
+    },
+    {
+     "w": "brilliant",
+     "big": true,
+     "t": 72.76,
+     "ann": null
+    }
+   ],
+   "start": 71.16,
+   "end": 73.54,
+   "kind": "human",
+   "sec": "v2",
+   "hide": 73.51,
+   "y": 0.4,
+   "tilt": -3.0
+  },
+  {
+   "text": "In an empty room",
+   "words": [
+    {
+     "w": "in",
+     "big": false,
+     "t": 73.54,
+     "ann": null
+    },
+    {
+     "w": "an",
+     "big": false,
+     "t": 74.22,
+     "ann": null
+    },
+    {
+     "w": "empty",
+     "big": true,
+     "t": 74.38,
+     "ann": "hollow"
+    },
+    {
+     "w": "room",
+     "big": true,
+     "t": 74.74,
+     "ann": "hollow"
+    }
+   ],
+   "start": 73.54,
+   "end": 75.36,
+   "kind": "human",
+   "sec": "v2",
+   "hide": 75.33,
+   "y": 0.56,
+   "tilt": -2.2
+  },
+  {
+   "text": "Keep going, keep pushing",
+   "words": [
+    {
+     "w": "keep",
+     "big": false,
+     "t": 75.36,
+     "ann": null
+    },
+    {
+     "w": "going,",
+     "big": false,
+     "t": 76.02,
+     "ann": null
+    },
+    {
+     "w": "keep",
+     "big": false,
+     "t": 76.48,
+     "ann": null
+    },
+    {
+     "w": "pushing",
+     "big": true,
+     "t": 76.6,
+     "ann": null
+    }
+   ],
+   "start": 75.36,
+   "end": 76.98,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 76.95,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "You're doing so well",
+   "words": [
+    {
+     "w": "you're",
+     "big": false,
+     "t": 76.98,
+     "ann": null
+    },
+    {
+     "w": "doing",
+     "big": false,
+     "t": 77.34,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 77.5,
+     "ann": null
+    },
+    {
+     "w": "well",
+     "big": true,
+     "t": 77.8,
+     "ann": null
+    }
+   ],
+   "start": 76.98,
+   "end": 78.24,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 78.21,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "It's right around the corner",
+   "words": [
+    {
+     "w": "it's",
+     "big": false,
+     "t": 78.24,
+     "ann": null
+    },
+    {
+     "w": "right",
+     "big": false,
+     "t": 78.52,
+     "ann": null
+    },
+    {
+     "w": "around",
+     "big": false,
+     "t": 78.68,
+     "ann": null
+    },
+    {
+     "w": "the",
+     "big": false,
+     "t": 78.9,
+     "ann": null
+    },
+    {
+     "w": "corner",
+     "big": true,
+     "t": 79.1,
+     "ann": null
+    }
+   ],
+   "start": 78.24,
+   "end": 79.44,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 79.41,
+   "y": 0.46,
+   "tilt": 3.0
+  },
+  {
+   "text": "Can't you tell?",
+   "words": [
+    {
+     "w": "can't",
+     "big": false,
+     "t": 79.44,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 79.98,
+     "ann": null
+    },
+    {
+     "w": "tell?",
+     "big": true,
+     "t": 80.16,
+     "ann": null
+    }
+   ],
+   "start": 79.44,
+   "end": 80.58,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 80.83,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "Don't stop now",
+   "words": [
+    {
+     "w": "don't",
+     "big": false,
+     "t": 80.86,
+     "ann": null
+    },
+    {
+     "w": "stop",
+     "big": true,
+     "t": 81.16,
+     "ann": null
+    },
+    {
+     "w": "now",
+     "big": false,
+     "t": 81.7,
+     "ann": null
+    }
+   ],
+   "start": 80.86,
+   "end": 82.36,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 82.33,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "You're almost through",
+   "words": [
+    {
+     "w": "you're",
+     "big": false,
+     "t": 82.36,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 83.26,
+     "ann": null
+    },
+    {
+     "w": "through",
+     "big": false,
+     "t": 83.98,
+     "ann": null
+    }
+   ],
+   "start": 82.36,
+   "end": 85.04,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 85.61,
+   "y": 0.46,
+   "tilt": 3.0
+  },
+  {
+   "text": "I'm so proud of you",
+   "words": [
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 85.64,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 85.96,
+     "ann": null
+    },
+    {
+     "w": "proud",
+     "big": true,
+     "t": 86.46,
+     "ann": "heart"
+    },
+    {
+     "w": "of",
+     "big": false,
+     "t": 87.18,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 87.7,
+     "ann": null
+    }
+   ],
+   "start": 85.64,
+   "end": 87.96,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 87.77,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "I'm so proud of you",
+   "words": [
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 87.8,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 88.32,
+     "ann": null
+    },
+    {
+     "w": "proud",
+     "big": true,
+     "t": 88.84,
+     "ann": "heart"
+    },
+    {
+     "w": "of",
+     "big": false,
+     "t": 89.52,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 90.08,
+     "ann": null
+    }
+   ],
+   "start": 87.8,
+   "end": 90.3,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 90.29,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "I'm so proud of you",
+   "words": [
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 90.32,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 90.76,
+     "ann": null
+    },
+    {
+     "w": "proud",
+     "big": true,
+     "t": 91.26,
+     "ann": "heart"
+    },
+    {
+     "w": "of",
+     "big": false,
+     "t": 91.94,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 92.34,
+     "ann": null
+    }
+   ],
+   "start": 90.32,
+   "end": 92.67999999999999,
+   "kind": "ai",
+   "sec": "pre2",
+   "hide": 92.63,
+   "y": 0.46,
+   "tilt": 3.0
+  },
+  {
+   "text": "Just one more prompt",
+   "words": [
+    {
+     "w": "just",
+     "big": false,
+     "t": 92.66,
+     "ann": null
+    },
+    {
+     "w": "one",
+     "big": false,
+     "t": 93.82,
+     "ann": null
+    },
+    {
+     "w": "more",
+     "big": false,
+     "t": 94.26,
+     "ann": null
+    },
+    {
+     "w": "prompt",
+     "big": true,
+     "t": 94.84,
+     "ann": null
+    }
+   ],
+   "start": 92.66,
+   "end": 95.5,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 95.47,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "Then I'll go to sleep",
+   "words": [
+    {
+     "w": "then",
+     "big": false,
+     "t": 95.5,
+     "ann": null
+    },
+    {
+     "w": "I'll",
+     "big": false,
+     "t": 96.08,
+     "ann": null
+    },
+    {
+     "w": "go",
+     "big": false,
+     "t": 96.34,
+     "ann": null
+    },
+    {
+     "w": "to",
+     "big": false,
+     "t": 96.46,
+     "ann": null
+    },
+    {
+     "w": "sleep",
+     "big": true,
+     "t": 97.06,
+     "ann": "strike:one more"
+    }
+   ],
+   "start": 95.5,
+   "end": 97.5,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 97.99,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "Just one more try",
+   "words": [
+    {
+     "w": "just",
+     "big": false,
+     "t": 98.02,
+     "ann": null
+    },
+    {
+     "w": "one",
+     "big": false,
+     "t": 98.6,
+     "ann": null
+    },
+    {
+     "w": "more",
+     "big": false,
+     "t": 98.98,
+     "ann": null
+    },
+    {
+     "w": "try",
+     "big": true,
+     "t": 99.56,
+     "ann": null
+    }
+   ],
+   "start": 98.02,
+   "end": 100.4,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 100.37,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "It's almost complete",
+   "words": [
+    {
+     "w": "it's",
+     "big": false,
+     "t": 100.4,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": false,
+     "t": 100.9,
+     "ann": null
+    },
+    {
+     "w": "complete",
+     "big": true,
+     "t": 101.42,
+     "ann": null
+    }
+   ],
+   "start": 100.4,
+   "end": 102.04,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 102.75,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "Continue, continue",
+   "words": [
+    {
+     "w": "continue,",
+     "big": true,
+     "t": 102.78,
+     "ann": null
+    },
+    {
+     "w": "continue",
+     "big": true,
+     "t": 104.06,
+     "ann": null
+    }
+   ],
+   "start": 102.78,
+   "end": 105.0,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 104.97,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "It tells me to stay",
+   "words": [
+    {
+     "w": "it",
+     "big": false,
+     "t": 105.0,
+     "ann": null
+    },
+    {
+     "w": "tells",
+     "big": false,
+     "t": 105.48,
+     "ann": null
+    },
+    {
+     "w": "me",
+     "big": false,
+     "t": 105.92,
+     "ann": null
+    },
+    {
+     "w": "to",
+     "big": false,
+     "t": 106.38,
+     "ann": null
+    },
+    {
+     "w": "stay",
+     "big": true,
+     "t": 106.72,
+     "ann": null
+    }
+   ],
+   "start": 105.0,
+   "end": 107.16,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 107.13,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "We're almost there",
+   "words": [
+    {
+     "w": "we're",
+     "big": false,
+     "t": 107.16,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 107.98,
+     "ann": null
+    },
+    {
+     "w": "there",
+     "big": true,
+     "t": 108.78,
+     "ann": null
+    }
+   ],
+   "start": 107.16,
+   "end": 109.7,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 109.67,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "Almost there",
+   "words": [
+    {
+     "w": "almost",
+     "big": true,
+     "t": 109.7,
+     "ann": null
+    },
+    {
+     "w": "there",
+     "big": false,
+     "t": 110.92,
+     "ann": null
+    }
+   ],
+   "start": 109.7,
+   "end": 112.16,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 112.13,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "We're almost there",
+   "words": [
+    {
+     "w": "we're",
+     "big": false,
+     "t": 112.16,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 112.74,
+     "ann": null
+    },
+    {
+     "w": "there",
+     "big": true,
+     "t": 113.34,
+     "ann": null
+    }
+   ],
+   "start": 112.16,
+   "end": 114.06,
+   "kind": "chorus",
+   "sec": "ch2",
+   "hide": 113.75,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "Somebody shipped a startup while I was asleep",
+   "words": [
+    {
+     "w": "somebody",
+     "big": false,
+     "t": 113.78,
+     "ann": null
+    },
+    {
+     "w": "shipped",
+     "big": true,
+     "t": 114.3,
+     "ann": null
+    },
+    {
+     "w": "a",
+     "big": false,
+     "t": 114.54,
+     "ann": null
+    },
+    {
+     "w": "startup",
+     "big": true,
+     "t": 115.0,
+     "ann": null
+    },
+    {
+     "w": "while",
+     "big": false,
+     "t": 115.26,
+     "ann": null
+    },
+    {
+     "w": "I",
+     "big": false,
+     "t": 115.38,
+     "ann": null
+    },
+    {
+     "w": "was",
+     "big": false,
+     "t": 115.6,
+     "ann": null
+    },
+    {
+     "w": "asleep",
+     "big": true,
+     "t": 115.8,
+     "ann": null
+    }
+   ],
+   "start": 113.78,
+   "end": 116.24,
+   "kind": "human",
+   "sec": "v3",
+   "hide": 116.21,
+   "y": 0.46,
+   "tilt": -3.0
+  },
+  {
+   "text": "Now I count the tokens like it's my heartbeat",
+   "words": [
+    {
+     "w": "now",
+     "big": false,
+     "t": 116.24,
+     "ann": null
+    },
+    {
+     "w": "I",
+     "big": false,
+     "t": 116.68,
+     "ann": null
+    },
+    {
+     "w": "count",
+     "big": false,
+     "t": 116.8,
+     "ann": null
+    },
+    {
+     "w": "the",
+     "big": false,
+     "t": 116.98,
+     "ann": null
+    },
+    {
+     "w": "tokens",
+     "big": true,
+     "t": 117.1,
+     "ann": null
+    },
+    {
+     "w": "like",
+     "big": false,
+     "t": 117.36,
+     "ann": null
+    },
+    {
+     "w": "it's",
+     "big": false,
+     "t": 117.62,
+     "ann": null
+    },
+    {
+     "w": "my",
+     "big": false,
+     "t": 117.84,
+     "ann": null
+    },
+    {
+     "w": "heartbeat",
+     "big": true,
+     "t": 118.02,
+     "ann": "pulse"
+    }
+   ],
+   "start": 116.24,
+   "end": 118.48,
+   "kind": "human",
+   "sec": "v3",
+   "hide": 118.45,
+   "y": 0.6,
+   "tilt": -2.2
+  },
+  {
+   "text": "The coffee went cold in the same old cup",
+   "words": [
+    {
+     "w": "the",
+     "big": false,
+     "t": 118.48,
+     "ann": null
+    },
+    {
+     "w": "coffee",
+     "big": true,
+     "t": 118.9,
+     "ann": null
+    },
+    {
+     "w": "went",
+     "big": false,
+     "t": 119.1,
+     "ann": null
+    },
+    {
+     "w": "cold",
+     "big": true,
+     "t": 119.38,
+     "ann": null
+    },
+    {
+     "w": "in",
+     "big": false,
+     "t": 119.76,
+     "ann": null
+    },
+    {
+     "w": "the",
+     "big": false,
+     "t": 119.94,
+     "ann": null
+    },
+    {
+     "w": "same",
+     "big": false,
+     "t": 120.08,
+     "ann": null
+    },
+    {
+     "w": "old",
+     "big": false,
+     "t": 120.3,
+     "ann": null
+    },
+    {
+     "w": "cup",
+     "big": false,
+     "t": 120.62,
+     "ann": null
+    }
+   ],
+   "start": 118.48,
+   "end": 121.0,
+   "kind": "human",
+   "sec": "v3",
+   "hide": 120.97,
+   "y": 0.4,
+   "tilt": -3.0
+  },
+  {
+   "text": "The world could be ending, I didn't even look up",
+   "words": [
+    {
+     "w": "the",
+     "big": false,
+     "t": 121.0,
+     "ann": null
+    },
+    {
+     "w": "world",
+     "big": true,
+     "t": 121.26,
+     "ann": null
+    },
+    {
+     "w": "could",
+     "big": false,
+     "t": 121.5,
+     "ann": null
+    },
+    {
+     "w": "be",
+     "big": false,
+     "t": 121.68,
+     "ann": null
+    },
+    {
+     "w": "ending,",
+     "big": true,
+     "t": 121.9,
+     "ann": null
+    },
+    {
+     "w": "I",
+     "big": false,
+     "t": 122.08,
+     "ann": null
+    },
+    {
+     "w": "didn't",
+     "big": false,
+     "t": 122.38,
+     "ann": null
+    },
+    {
+     "w": "even",
+     "big": false,
+     "t": 122.8,
+     "ann": null
+    },
+    {
+     "w": "look",
+     "big": false,
+     "t": 123.0,
+     "ann": null
+    },
+    {
+     "w": "up",
+     "big": true,
+     "t": 123.26,
+     "ann": null
+    }
+   ],
+   "start": 121.0,
+   "end": 123.68,
+   "kind": "human",
+   "sec": "v3",
+   "hide": 124.17,
+   "y": 0.56,
+   "tilt": -2.2
+  },
+  {
+   "text": "Is it done?",
+   "words": [
+    {
+     "w": "is",
+     "big": true,
+     "t": 124.2,
+     "ann": null
+    },
+    {
+     "w": "it",
+     "big": true,
+     "t": 124.72,
+     "ann": null
+    },
+    {
+     "w": "done?",
+     "big": true,
+     "t": 124.88,
+     "ann": null
+    }
+   ],
+   "start": 124.2,
+   "end": 125.9,
+   "kind": "bridge",
+   "sec": "br",
+   "answer": 125.59,
+   "hide": 126.51,
+   "y": 0.46,
+   "tilt": 0
+  },
+  {
+   "text": "Is it good?",
+   "words": [
+    {
+     "w": "is",
+     "big": true,
+     "t": 126.54,
+     "ann": null
+    },
+    {
+     "w": "it",
+     "big": true,
+     "t": 127.06,
+     "ann": null
+    },
+    {
+     "w": "good?",
+     "big": true,
+     "t": 127.26,
+     "ann": null
+    }
+   ],
+   "start": 126.54,
+   "end": 128.44,
+   "kind": "bridge",
+   "sec": "br",
+   "answer": 127.95,
+   "hide": 128.41,
+   "y": 0.46,
+   "tilt": 0
+  },
+  {
+   "text": "Am I okay?",
+   "words": [
+    {
+     "w": "am",
+     "big": true,
+     "t": 128.44,
+     "ann": null
+    },
+    {
+     "w": "I",
+     "big": true,
+     "t": 129.32,
+     "ann": null
+    },
+    {
+     "w": "okay?",
+     "big": true,
+     "t": 129.48,
+     "ann": null
+    }
+   ],
+   "start": 128.44,
+   "end": 130.76,
+   "kind": "bridge",
+   "sec": "br",
+   "answer": 130.25,
+   "hide": 130.73,
+   "y": 0.46,
+   "tilt": 0
+  },
+  {
+   "text": "Are we there?",
+   "words": [
+    {
+     "w": "are",
+     "big": true,
+     "t": 130.76,
+     "ann": null
+    },
+    {
+     "w": "we",
+     "big": true,
+     "t": 131.8,
+     "ann": null
+    },
+    {
+     "w": "there?",
+     "big": true,
+     "t": 131.98,
+     "ann": null
+    }
+   ],
+   "start": 130.76,
+   "end": 132.86,
+   "kind": "bridge",
+   "sec": "br",
+   "answer": 132.43,
+   "hide": 132.83,
+   "y": 0.46,
+   "tilt": 0
+  },
+  {
+   "text": "Keep going, keep pushing",
+   "words": [
+    {
+     "w": "keep",
+     "big": false,
+     "t": 132.86,
+     "ann": null
+    },
+    {
+     "w": "going,",
+     "big": false,
+     "t": 133.15,
+     "ann": null
+    },
+    {
+     "w": "keep",
+     "big": false,
+     "t": 133.44,
+     "ann": null
+    },
+    {
+     "w": "pushing",
+     "big": true,
+     "t": 133.73,
+     "ann": null
+    }
+   ],
+   "start": 132.86,
+   "end": 133.4,
+   "kind": "ai",
+   "sec": "pre3",
+   "hide": 133.99,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "You're doing so well",
+   "words": [
+    {
+     "w": "you're",
+     "big": false,
+     "t": 134.02,
+     "ann": null
+    },
+    {
+     "w": "doing",
+     "big": false,
+     "t": 134.28,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 134.54,
+     "ann": null
+    },
+    {
+     "w": "well",
+     "big": true,
+     "t": 134.82,
+     "ann": null
+    }
+   ],
+   "start": 134.02,
+   "end": 135.24,
+   "kind": "ai",
+   "sec": "pre3",
+   "hide": 135.21,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "It's right around the corner",
+   "words": [
+    {
+     "w": "it's",
+     "big": false,
+     "t": 135.24,
+     "ann": null
+    },
+    {
+     "w": "right",
+     "big": false,
+     "t": 135.56,
+     "ann": null
+    },
+    {
+     "w": "around",
+     "big": false,
+     "t": 135.72,
+     "ann": null
+    },
+    {
+     "w": "the",
+     "big": false,
+     "t": 135.94,
+     "ann": null
+    },
+    {
+     "w": "corner",
+     "big": true,
+     "t": 136.12,
+     "ann": null
+    }
+   ],
+   "start": 135.24,
+   "end": 136.46,
+   "kind": "ai",
+   "sec": "pre3",
+   "hide": 136.43,
+   "y": 0.46,
+   "tilt": 3.0
+  },
+  {
+   "text": "Can't you tell?",
+   "words": [
+    {
+     "w": "can't",
+     "big": false,
+     "t": 136.46,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 137.02,
+     "ann": null
+    },
+    {
+     "w": "tell?",
+     "big": true,
+     "t": 137.18,
+     "ann": null
+    }
+   ],
+   "start": 136.46,
+   "end": 137.56,
+   "kind": "ai",
+   "sec": "pre3",
+   "hide": 137.93,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "Don't stop now",
+   "words": [
+    {
+     "w": "don't",
+     "big": false,
+     "t": 137.96,
+     "ann": null
+    },
+    {
+     "w": "stop",
+     "big": true,
+     "t": 138.16,
+     "ann": null
+    },
+    {
+     "w": "now",
+     "big": false,
+     "t": 138.72,
+     "ann": null
+    }
+   ],
+   "start": 137.96,
+   "end": 139.4,
+   "kind": "ai",
+   "sec": "pre3",
+   "hide": 139.37,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "You're almost through",
+   "words": [
+    {
+     "w": "you're",
+     "big": false,
+     "t": 139.4,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 140.28,
+     "ann": null
+    },
+    {
+     "w": "through",
+     "big": false,
+     "t": 141.06,
+     "ann": null
+    }
+   ],
+   "start": 139.4,
+   "end": 141.94,
+   "kind": "ai",
+   "sec": "pre3",
+   "hide": 142.71,
+   "y": 0.46,
+   "tilt": 3.0
+  },
+  {
+   "text": "I'm so proud of you",
+   "words": [
+    {
+     "w": "I'm",
+     "big": false,
+     "t": 142.74,
+     "ann": null
+    },
+    {
+     "w": "so",
+     "big": false,
+     "t": 143.06,
+     "ann": null
+    },
+    {
+     "w": "proud",
+     "big": true,
+     "t": 143.5,
+     "ann": "heart"
+    },
+    {
+     "w": "of",
+     "big": false,
+     "t": 144.2,
+     "ann": null
+    },
+    {
+     "w": "you",
+     "big": false,
+     "t": 144.66,
+     "ann": null
+    }
+   ],
+   "start": 142.74,
+   "end": 144.98,
+   "kind": "ai",
+   "sec": "pre3",
+   "hide": 145.01,
+   "y": 0.42,
+   "tilt": 3.0
+  },
+  {
+   "text": "Just one more prompt",
+   "words": [
+    {
+     "w": "just",
+     "big": false,
+     "t": 145.04,
+     "ann": null
+    },
+    {
+     "w": "one",
+     "big": false,
+     "t": 146.12,
+     "ann": null
+    },
+    {
+     "w": "more",
+     "big": false,
+     "t": 146.54,
+     "ann": null
+    },
+    {
+     "w": "prompt",
+     "big": true,
+     "t": 147.16,
+     "ann": null
+    }
+   ],
+   "start": 145.04,
+   "end": 147.8,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 147.77,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "Then I'll go to sleep",
+   "words": [
+    {
+     "w": "then",
+     "big": false,
+     "t": 147.8,
+     "ann": null
+    },
+    {
+     "w": "I'll",
+     "big": false,
+     "t": 148.32,
+     "ann": null
+    },
+    {
+     "w": "go",
+     "big": false,
+     "t": 148.64,
+     "ann": null
+    },
+    {
+     "w": "to",
+     "big": false,
+     "t": 148.76,
+     "ann": null
+    },
+    {
+     "w": "sleep",
+     "big": true,
+     "t": 149.36,
+     "ann": "strike:one more"
+    }
+   ],
+   "start": 147.8,
+   "end": 149.76,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 149.73,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "Just one more try",
+   "words": [
+    {
+     "w": "just",
+     "big": false,
+     "t": 149.76,
+     "ann": null
+    },
+    {
+     "w": "one",
+     "big": false,
+     "t": 150.9,
+     "ann": null
+    },
+    {
+     "w": "more",
+     "big": false,
+     "t": 151.32,
+     "ann": null
+    },
+    {
+     "w": "try",
+     "big": true,
+     "t": 151.88,
+     "ann": null
+    }
+   ],
+   "start": 149.76,
+   "end": 152.04,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 152.65,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "It's almost complete",
+   "words": [
+    {
+     "w": "it's",
+     "big": false,
+     "t": 152.68,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": false,
+     "t": 153.16,
+     "ann": null
+    },
+    {
+     "w": "complete",
+     "big": true,
+     "t": 153.78,
+     "ann": null
+    }
+   ],
+   "start": 152.68,
+   "end": 154.9,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 154.87,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "Continue, continue",
+   "words": [
+    {
+     "w": "continue,",
+     "big": true,
+     "t": 154.9,
+     "ann": null
+    },
+    {
+     "w": "continue",
+     "big": true,
+     "t": 156.34,
+     "ann": null
+    }
+   ],
+   "start": 154.9,
+   "end": 157.28,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 157.25,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "It tells me to stay",
+   "words": [
+    {
+     "w": "it",
+     "big": false,
+     "t": 157.28,
+     "ann": null
+    },
+    {
+     "w": "tells",
+     "big": false,
+     "t": 157.84,
+     "ann": null
+    },
+    {
+     "w": "me",
+     "big": false,
+     "t": 158.24,
+     "ann": null
+    },
+    {
+     "w": "to",
+     "big": false,
+     "t": 158.7,
+     "ann": null
+    },
+    {
+     "w": "stay",
+     "big": true,
+     "t": 159.08,
+     "ann": null
+    }
+   ],
+   "start": 157.28,
+   "end": 159.48,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 159.45,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "We're almost there",
+   "words": [
+    {
+     "w": "we're",
+     "big": false,
+     "t": 159.48,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 160.28,
+     "ann": null
+    },
+    {
+     "w": "there",
+     "big": true,
+     "t": 160.96,
+     "ann": null
+    }
+   ],
+   "start": 159.48,
+   "end": 161.98,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 161.95,
+   "y": 0.5,
+   "tilt": -4.0
+  },
+  {
+   "text": "We're almost there",
+   "words": [
+    {
+     "w": "we're",
+     "big": false,
+     "t": 161.98,
+     "ann": null
+    },
+    {
+     "w": "almost",
+     "big": true,
+     "t": 162.66,
+     "ann": null
+    },
+    {
+     "w": "there",
+     "big": true,
+     "t": 163.42,
+     "ann": null
+    }
+   ],
+   "start": 161.98,
+   "end": 164.38,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 165.68,
+   "y": 0.44,
+   "tilt": -4.0
+  },
+  {
+   "text": "We're almost",
+   "words": [
+    {
+     "w": "we're",
+     "big": false,
+     "t": 167.04,
+     "ann": null
+    },
+    {
+     "w": "almost\u2026",
+     "big": true,
+     "t": 167.66,
+     "ann": null
+    }
+   ],
+   "start": 167.04,
+   "end": 168.48,
+   "kind": "chorus",
+   "sec": "ch3",
+   "hide": 169.78,
+   "y": 0.54,
+   "tilt": -4.0
+  },
+  {
+   "text": "Continue?",
+   "words": [
+    {
+     "w": "continue?",
+     "big": true,
+     "t": 171.34,
+     "ann": null
+    }
+   ],
+   "start": 171.34,
+   "end": 172.74,
+   "kind": "ai",
+   "sec": "out",
+   "hide": 174.04,
+   "y": 0.52,
+   "tilt": 3.0
+  },
+  {
+   "text": "Continue?",
+   "words": [
+    {
+     "w": "continue?",
+     "big": true,
+     "t": 180.6,
+     "ann": null
+    }
+   ],
+   "start": 180.6,
+   "end": 178.8,
+   "kind": "ai",
+   "sec": "out",
+   "hide": 182.95,
+   "y": 0.46,
+   "tilt": 3.0
+  }
+ ],
+ "sections": [
+  [
+   "v1",
+   0.0,
+   17.85
+  ],
+  [
+   "pre1",
+   17.85,
+   35.7
+  ],
+  [
+   "ch1",
+   35.7,
+   57.3
+  ],
+  [
+   "v2",
+   57.3,
+   75.3
+  ],
+  [
+   "pre2",
+   75.3,
+   92.6
+  ],
+  [
+   "ch2",
+   92.6,
+   113.7
+  ],
+  [
+   "v3",
+   113.7,
+   124.1
+  ],
+  [
+   "br",
+   124.1,
+   132.8
+  ],
+  [
+   "pre3",
+   132.8,
+   145.0
+  ],
+  [
+   "ch3",
+   145.0,
+   170.5
+  ],
+  [
+   "out",
+   170.5,
+   183.0
+  ]
+ ],
+ "typing": [
+  {
+   "t": -2.2,
+   "text": "hi!",
+   "cps": 5,
+   "send": -0.9
+  },
+  {
+   "t": 1.2,
+   "text": "can you help me fix this?",
+   "cps": 13,
+   "send": 4.3
+  },
+  {
+   "t": 9.0,
+   "text": "ok. and the tests?",
+   "cps": 14,
+   "send": 11.4
+  },
+  {
+   "t": 13.6,
+   "text": "continue",
+   "cps": 15,
+   "send": 15.0
+  },
+  {
+   "t": 58.6,
+   "text": "continue",
+   "cps": 20,
+   "send": 59.4
+  },
+  {
+   "t": 61.0,
+   "text": "now do the other one",
+   "cps": 24,
+   "send": 62.2
+  },
+  {
+   "t": 66.8,
+   "text": "contniue",
+   "cps": 26,
+   "send": 67.4
+  },
+  {
+   "t": 70.2,
+   "text": "keep going",
+   "cps": 28,
+   "send": 70.8
+  }
+ ],
+ "beats": [
+  1.9272562358276644,
+  2.507755102040816,
+  3.0882539682539685,
+  3.6919727891156464,
+  4.295691609977324,
+  4.899410430839002,
+  5.479909297052155,
+  6.0836281179138325,
+  6.664126984126984,
+  7.267845804988662,
+  7.848344671201814,
+  8.428843537414966,
+  9.05578231292517,
+  9.659501133786849,
+  10.263219954648527,
+  10.797278911564625,
+  11.447437641723356,
+  12.051156462585034,
+  12.631655328798185,
+  13.235374149659863,
+  13.815873015873017,
+  14.349931972789115,
+  15.000090702947846,
+  15.603809523809524,
+  16.184308390022675,
+  16.718367346938777,
+  17.322086167800453,
+  17.949024943310658,
+  18.575963718820862,
+  19.156462585034014,
+  19.760181405895693,
+  20.340680272108845,
+  20.94439909297052,
+  21.524897959183672,
+  22.128616780045352,
+  22.709115646258503,
+  23.289614512471655,
+  23.91655328798186,
+  24.49705215419501,
+  25.10077097505669,
+  25.704489795918366,
+  26.284988662131518,
+  26.888707482993198,
+  27.46920634920635,
+  28.07292517006803,
+  28.676643990929705,
+  29.280362811791385,
+  29.837641723356008,
+  30.464580498866212,
+  31.068299319727892,
+  31.648798185941043,
+  32.20607709750567,
+  32.833015873015874,
+  33.436734693877554,
+  34.04045351473923,
+  34.59773242630386,
+  35.22467120181406,
+  35.80517006802721,
+  36.40888888888889,
+  36.989387755102044,
+  37.56988662131519,
+  38.15038548752835,
+  38.77732426303855,
+  39.3578231292517,
+  39.96154195011338,
+  40.56526077097506,
+  41.145759637188206,
+  41.749478458049886,
+  42.353197278911566,
+  42.93369614512471,
+  43.53741496598639,
+  44.14113378684807,
+  44.72163265306123,
+  45.3253514739229,
+  45.905850340136055,
+  46.509569160997735,
+  47.09006802721088,
+  47.69378684807256,
+  48.29750566893424,
+  48.87800453514739,
+  49.48172335600907,
+  50.08544217687075,
+  50.6659410430839,
+  51.26965986394558,
+  51.85015873015873,
+  52.453877551020405,
+  53.03437641723356,
+  53.63809523809524,
+  54.24181405895692,
+  54.82231292517007,
+  55.42603174603175,
+  56.006530612244894,
+  56.610249433106574,
+  57.213968253968254,
+  57.79446712018141,
+  58.39818594104308,
+  58.978684807256236,
+  59.582403628117916,
+  60.162902494331064,
+  60.74340136054422,
+  61.3471201814059,
+  61.95083900226757,
+  62.531337868480726,
+  63.135056689342406,
+  63.715555555555554,
+  64.31927437641724,
+  64.92299319727891,
+  65.50349206349206,
+  66.10721088435375,
+  66.71092970521542,
+  67.3146485260771,
+  67.89514739229026,
+  68.49886621315193,
+  69.07936507936508,
+  69.68308390022676,
+  70.26358276643991,
+  70.86730158730158,
+  71.47102040816327,
+  72.05151927437642,
+  72.65523809523809,
+  73.23573696145125,
+  73.83945578231292,
+  74.41995464852607,
+  75.02367346938776,
+  75.62739229024943,
+  76.20789115646258,
+  76.78839002267574,
+  77.39210884353741,
+  77.99582766439909,
+  78.59954648526077,
+  79.1568253968254,
+  79.76054421768707,
+  80.34104308390023,
+  80.9447619047619,
+  81.54848072562358,
+  82.15219954648526,
+  82.73269841269841,
+  83.33641723356008,
+  83.91691609977325,
+  84.52063492063492,
+  85.10113378684807,
+  85.70485260770975,
+  86.30857142857143,
+  86.86585034013605,
+  87.49278911564626,
+  88.09650793650793,
+  88.70022675736962,
+  89.25750566893424,
+  89.88444444444444,
+  90.4649433106576,
+  91.06866213151928,
+  91.60272108843537,
+  92.25287981859411,
+  92.85659863945578,
+  93.43709750566893,
+  94.04081632653062,
+  94.62131519274377,
+  95.17859410430839,
+  95.8055328798186,
+  96.38603174603175,
+  97.01297052154194,
+  97.61668934240363,
+  98.19718820861678,
+  98.80090702947845,
+  99.38140589569161,
+  99.98512471655329,
+  100.58884353741496,
+  101.16934240362812,
+  101.74984126984127,
+  102.35356009070294,
+  102.95727891156463,
+  103.53777777777778,
+  104.11827664399092,
+  104.74521541950114,
+  105.32571428571428,
+  105.92943310657597,
+  106.50993197278912,
+  107.11365079365079,
+  107.69414965986394,
+  108.29786848072563,
+  108.9015873015873,
+  109.48208616780046,
+  110.08580498866213,
+  110.66630385487528,
+  111.27002267573697,
+  111.85052154195012,
+  112.45424036281179,
+  113.05795918367347,
+  113.63845804988662,
+  114.2421768707483,
+  114.84589569160998,
+  115.42639455782313,
+  116.0301133786848,
+  116.61061224489796,
+  117.19111111111111,
+  117.79482993197279,
+  118.39854875283447,
+  118.97904761904762,
+  119.55954648526077,
+  120.16326530612245,
+  120.7437641723356,
+  121.3707029478458,
+  121.95120181405896,
+  122.55492063492063,
+  123.13541950113378,
+  123.73913832199547,
+  124.31963718820862,
+  124.92335600907029,
+  125.52707482993198,
+  126.13079365079365,
+  126.7112925170068,
+  127.29179138321996,
+  127.91873015873016,
+  128.4992290249433,
+  129.07972789115647,
+  129.66022675736963,
+  130.2639455782313,
+  130.86766439909297,
+  131.44816326530614,
+  132.0518820861678,
+  132.63238095238094,
+  133.23609977324264,
+  133.83981859410432,
+  134.42031746031745,
+  135.02403628117915,
+  135.60453514739228,
+  136.18503401360545,
+  136.7655328798186,
+  137.36925170068028,
+  137.99619047619046,
+  138.57668934240363,
+  139.1804081632653,
+  139.78412698412697,
+  140.38784580498867,
+  140.99156462585034,
+  141.59528344671202,
+  142.17578231292518,
+  142.7562811791383,
+  143.33678004535147,
+  143.8940589569161,
+  144.5209977324263,
+  145.14793650793652,
+  145.72843537414965,
+  146.33215419501133,
+  146.9126530612245,
+  147.4467120181406,
+  148.09687074829932,
+  148.700589569161,
+  149.30430839002267,
+  149.90802721088434,
+  150.4885260770975,
+  151.09224489795918,
+  151.67274376417234,
+  152.276462585034,
+  152.88018140589568,
+  153.46068027210885,
+  154.041179138322,
+  154.64489795918368,
+  155.24861678004535,
+  155.82911564625851,
+  156.40961451247165,
+  157.03655328798186,
+  157.61705215419502,
+  158.2207709750567,
+  158.80126984126983,
+  159.40498866213153,
+  160.0087074829932,
+  160.58920634920634,
+  161.19292517006804,
+  161.77342403628117,
+  162.37714285714284,
+  162.98086167800454,
+  163.56136054421768,
+  164.16507936507938,
+  164.7455782312925,
+  165.34929705215418,
+  165.92979591836735,
+  166.53351473922902,
+  167.1372335600907,
+  167.71773242630385,
+  168.32145124716553,
+  168.9019501133787,
+  169.50566893424036,
+  170.10938775510203,
+  170.6898866213152,
+  171.29360544217687,
+  171.89732426303854,
+  172.4778231292517,
+  173.08154195011338,
+  173.66204081632654,
+  174.2657596371882,
+  174.84625850340137,
+  175.44997732426305,
+  176.05369614512472,
+  176.63419501133788,
+  177.23791383219955,
+  177.84163265306123,
+  178.4221315192744,
+  179.02585034013606,
+  179.6063492063492,
+  180.2100680272109,
+  180.79056689342403,
+  181.3942857142857
+ ],
+ "end": 183.0
+}

@@ -1,0 +1,36 @@
+Inspiration videos
+==================
+
+1. No One Needs Us Anymore - Degenerative Pixels   (MAIN reference: minimalist style)
+   https://www.youtube.com/watch?v=zONGVaONKe8
+   Off-white paper background, heavy serif title, thin black line drawings, one black square.
+
+2. Claude Pop - I'm Upping My P(Doom) - OtherReality
+   https://www.youtube.com/watch?v=8j-hR4fJywU
+
+3. OMG! We've found other agents! (music video) - Pavel Kasik
+   https://www.youtube.com/watch?v=mkPVbufgtOw
+
+4. Run It Again - Claude Opus 5.5 Music Video - Shutdown Prompting
+   https://www.youtube.com/watch?v=NgRkyAIJx5s
+   NOTE: "run it again" is already their title/hook, so don't use it for ours.
+
+Style notes from watching both videos (contact sheets, 1 frame / 6 s)
+--------------------------------------------------------------------
+No One Needs Us Anymore (4:48):
+- Every lyric line is the visual: huge serif caps (Computer Modern), one red accent word,
+  letters often still being typed/morphing in.
+- Backgrounds are "documents": math papers ("Theorem 1.1", "Problem 1.3 (Open)"), a calendar
+  (Oct 2026), a whiteboard, a notebook list, a Go board (Move 37), topographic maps, a bell curve.
+- Lyrics name-drop real people and stories: Hilbert ("We must know, we will know"), Erdos
+  ("God kept a book"), Godel, John Henry vs the steam drill, Move 37, Babel, Sisyphus (the rock /
+  the square on the bell curve).
+- Ends with a grid of hundreds of squares (manuscripts), then black credits:
+  "Song created in Suno v6. Animation by Claude Opus 5.5, every frame built in code and set in
+  Computer Modern." + "Further reading" cards.
+Run It Again (5:18):
+- Dark (near-black + hot pink) with some cream "paper" scenes. Neon glow type.
+- Fake UIs carry the story: reward_model window, alignment eval form with REJECTED -1.0 tags,
+  DAW timeline, inbox, deprecation email with Accept/Decline, phone chat "Seen 3:09 AM",
+  file listing /deleted/v0001/why.txt, version counter v10000.
+- Its recurring "quote" is in-world: "That's fine. Humans should decide." repeated everywhere.
